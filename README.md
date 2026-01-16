@@ -28,6 +28,27 @@ pip install torch torchvision numpy pandas matplotlib pyyaml
 
 Experiment 1 establishes a baseline for FedAvg on CIFAR-10 with non-IID data distribution (Dirichlet partition, alpha=0.5).
 
+### Notebook-based execution (used in this study)
+
+In addition to the script-based pipeline, Experiment 1 was executed and validated using Jupyter notebooks to ensure clarity, transparency, and reproducibility.
+
+The following notebooks contain the full experimental logic and were used to generate the reported results:
+
+- `experiments/FedAvg_CIFAR10_NonIID_Baseline.ipynb`  
+  Standard FedAvg baseline on CIFAR-10 with non-IID (Dirichlet) client partitioning.
+
+- `experiments/FedAvg_CIFAR10_NonIID_DP_Baseline.ipynb`  
+  Differentially private FedAvg under non-IID data using Opacus, with formal privacy accounting.
+
+Each notebook is fully self-contained and:
+- downloads CIFAR-10 at runtime
+- performs client partitioning
+- trains the global model over communication rounds
+- saves metrics, plots, and final model checkpoints to `results/`
+
+The notebooks represent the authoritative implementation used for the reported experimental results.
+
+
 ### Quick start
 
 ```bash
