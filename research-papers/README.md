@@ -76,7 +76,7 @@ No placeholder results. No estimated results reported as measured. No prior-pape
 The manuscript reading copies in this folder are provided to make the full research programme accessible in one repository for novelty and configuration auditing. Where a reading copy was generated from a PDF or tracked-change Word file, use it for technical comparison and trace the source document named in its header when exact layout or tracked-change history matters.
 
 
-## Published IEEE research (2026)
+## IEEE research (2026)
 
 - [Benchmarking Optimiser Choice and Privacy-Risk Dynamics in Non-IID Federated Learning](./Paper%20I%20-%20Published%20Citation.md). IEEE BigDataService 2026, pp. 9-23. DOI: [10.1109/BigDataService70481.2026.00011](https://doi.org/10.1109/BigDataService70481.2026.00011). 15-page author manuscript archived in the research Google Drive; access currently restricted to owner.
 - [Resilience of Federated Learning for Credit Risk Forecasting Under Heterogeneity, Label Noise and Partial Participation](./Paper%20II%20-%20IEEE%20Access%20Citation.md). IEEE Access, accepted 2026. DOI: [10.1109/ACCESS.2026.3743719](https://doi.org/10.1109/ACCESS.2026.3743719). 14-page accepted author manuscript archived in the research Google Drive; access currently restricted to owner.
