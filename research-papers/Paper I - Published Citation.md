@@ -20,7 +20,7 @@ Controlled evaluation of FedAvg, FedProx, FedAdam and DP-FedAvg under non-IID CI
 
 ## Source integrity
 
-Publication metadata are based on the supplied paper and the publisher DOI or bibliographic record. The DOI is the preferred scholarly citation link. Existing internal repository summaries may describe older draft protocols and must not supersede the accepted/published article when they conflict. The author's version of Paper II contains placeholder typesetting metadata in its interior; use the accepted-paper DOI above, and update volume/page/article number when the publisher releases final metadata.
+Publication metadata are based on the supplied paper and the publisher DOI or bibliographic record. The DOI is the preferred scholarly citation link. Existing internal repository summaries may describe older draft protocols and must not supersede the accepted/published article when they conflict. The attached benchmarking paper is an author manuscript. Use the DOI and proceedings pagination from the published bibliographic record for formal citation.
 
 
 ## Manuscript PDF
