@@ -21,3 +21,10 @@ Evaluation of federated credit-risk forecasting under client heterogeneity, labe
 ## Source integrity
 
 Publication metadata are based on the supplied paper and the publisher DOI or bibliographic record. The DOI is the preferred scholarly citation link. Existing internal repository summaries may describe older draft protocols and must not supersede the accepted/published article when they conflict. The author's version of Paper II contains placeholder typesetting metadata in its interior; use the accepted-paper DOI above, and update volume/page/article number when the publisher releases final metadata.
+
+
+## Manuscript PDF
+
+Accepted author manuscript (14-page PDF): https://drive.google.com/file/d/1XKt5tRgjG-JtrfPgODBtlYQdnyFN1Pts/view
+
+Access: Google Drive owner access as of 18 October 2026; public download access has not been enabled.
